@@ -9,4 +9,5 @@
         "data": ["aaaaa_data.xml"],
         "demo": [],
         "installable": True
-         } 
+         }
+aftercccccc
