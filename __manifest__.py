@@ -1,5 +1,5 @@
 {
-        "name": "aaaaa",
+        "name": "aaaaabbbbbbbbb",
         "version": "13.0",
         "author": "Odoo SA",
         "website": "https://www.odoo.com",
